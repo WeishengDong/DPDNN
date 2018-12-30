@@ -1,0 +1,2 @@
+model_checkpoint_path: "deblur_k1_2.55"
+all_model_checkpoint_paths: "deblur_k1_2.55"
